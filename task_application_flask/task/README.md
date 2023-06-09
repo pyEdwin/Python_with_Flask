@@ -10,7 +10,8 @@
 * Create virtual environment 
   > virtualenv env
   > \env\Scripts\activate.bat
-
+  > Ctrl + Shift + P (1 Pyhton: Create Environment 2  Venv Python 6.11.3 64-bit)
+  
 * Create our project directory
   > mkdir task_application_flask
 

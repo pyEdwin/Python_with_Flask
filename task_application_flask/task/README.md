@@ -5,7 +5,7 @@
   > https://www.python.org/downloads/
 
 * Install virtualenv( **Window**)
-  > pip3 install virualenv
+  > pip3 install virtualenv
 
 * Create virtual environment 
   > virtualenv env
